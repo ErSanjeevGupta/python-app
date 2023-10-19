@@ -1,2 +1,1 @@
---upgrade pip
 python == '3.10'
